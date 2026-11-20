@@ -2,7 +2,7 @@
 
 **Anwendungsentwicklung bei WBS TRAINING AG**
 
-Bei WBS TRAINING AG lerne ich Anwendungsentwicklung. Auf GitHub dokumentiere ich meine Praxisprojekte und zeige, wie man sie lokal ausprobieren kann.
+Bei WBS TRAINING AG lerne ich Anwendungsentwicklung mit Java und SQL. In meinem Praktikum arbeite ich an Websites mit WordPress, PHP, HTML, CSS und JavaScript.
 
 ## Praxisprojekt
 
