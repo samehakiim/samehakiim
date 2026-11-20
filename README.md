@@ -2,7 +2,8 @@
 
 **Anwendungsentwicklung bei WBS TRAINING AG**
 
-Bei WBS TRAINING AG lerne ich Anwendungsentwicklung mit Java und SQL. In meinem Praktikum arbeite ich an Websites mit WordPress, PHP, HTML, CSS und JavaScript.
+- **Weiterbildung bei WBS TRAINING AG:** Anwendungsentwicklung mit Java und SQL.
+- **Praktikum in der Webentwicklung:** Arbeit an Websites mit WordPress, PHP, HTML, CSS und JavaScript.
 
 ## Praxisprojekt
 
